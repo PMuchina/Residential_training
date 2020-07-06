@@ -3,7 +3,7 @@
 ### 1. Peter Muchina
 Instituition: **ICIPE**
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fjrsbiodiversity.org%2Fgrants%2Ficipe-2018%2F&psig=AOvVaw2eUQuPQMfJ4b9BEAHRjuHy&ust=1594122481183000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiwlZTHuOoCFQAAAAAdAAAAABAO)
+![](https://i1.wp.com/bioinnovate-africa.org/wp-content/uploads/2019/06/icipe_logo.jpg?resize=1400%2C9999&ssl=1)
 
 **Interests:** 
 1. Genomics
