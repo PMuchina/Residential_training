@@ -18,4 +18,7 @@ Instituition: **ICIPE**
 
 ![](https://avatars3.githubusercontent.com/u/55382520?s=400&u=a83095892610e0ad5e2f721128c91e06e9f92549&v=4)
 
+**Photo**
+
+![](https://scontent.fmba1-1.fna.fbcdn.net/v/t1.0-9/35348763_204932613372742_6786202396746842112_n.jpg?_nc_cat=105&_nc_sid=6e5ad9&_nc_ohc=kpnD2i7yHGcAX9td8vr&_nc_pt=5&_nc_ht=scontent.fmba1-1.fna&oh=3401722a1a894cf7992608576f60ad8d&oe=5F270F26)
 
