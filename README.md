@@ -9,6 +9,7 @@ Instituition: **ICIPE**
 1. Genomics
 1. Reproducible research
 1. Open science
+1. Programming
 
 
 **Role:** Trainee
@@ -16,3 +17,5 @@ Instituition: **ICIPE**
 **Photo**
 
 ![](https://avatars3.githubusercontent.com/u/55382520?s=400&u=a83095892610e0ad5e2f721128c91e06e9f92549&v=4)
+
+
