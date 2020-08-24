@@ -2,6 +2,8 @@
 
 [I'm an inline-style link](https://www.google.com)
 
+[1]: http://slashdot.org
+
 ### 1. Peter Muchina
 Instituition: **ICIPE**
 
