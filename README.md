@@ -1,5 +1,7 @@
 # Residential_training
 
+[I'm an inline-style link](https://www.google.com)
+
 ### 1. Peter Muchina
 Instituition: **ICIPE**
 
