@@ -11,6 +11,8 @@ Instituition: **ICIPE**
 
 ![](https://i1.wp.com/bioinnovate-africa.org/wp-content/uploads/2019/06/icipe_logo.jpg?resize=1400%2C9999&ssl=1)
 
+![](https://www.frontiersin.org/files/Articles/469879/fmicb-10-02068-HTML/image_m/fmicb-10-02068-g001.jpg)
+
 **Interests:** 
 1. Genomics
 1. Reproducible research
